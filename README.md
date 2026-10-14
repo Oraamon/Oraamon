@@ -1,29 +1,59 @@
-# Oramon
+# Horacio Linhares Monte
+
+### Desenvolvedor de Software | PHP • Laravel • React • SQL
+
+Desenvolvedor de software com mais de 4 anos de experiência no desenvolvimento e manutenção de aplicações web, plataformas SaaS, APIs REST e integrações com serviços de terceiros.
+
+Atuo principalmente com PHP, Laravel, JavaScript, React e SQL, com experiência em integrações com gateways de pagamento, otimização de consultas, desenvolvimento de funcionalidades e suporte a aplicações em produção.
+
+Contribuí para produtos utilizados por mais de 12 mil usuários e integrações responsáveis por mais de 25 mil transações mensais.
+
+## Tecnologias
+
 <div align="center">
-  <a href="https://github.com/Oraamon">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oraamon&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
-  
-  
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oraamon&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oraamon&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Linguagens mais utilizadas"/>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/horacio_lmg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:horaciolmonte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/horacio-linhares-monte-2b5266223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+
+## Projetos em destaque
+
+- **GoTasker:** projeto em Go voltado ao processamento de tarefas com RabbitMQ.
+- **goCrud:** projeto em Go com operações CRUD.
+- **Gas-Guard:** projeto acadêmico de detecção e monitoramento de vazamentos de gás.
+
+## Formação
+
+**Bacharelado em Ciência da Computação**  
+Universidade de Fortaleza (UNIFOR) — 2022 até o momento.
+
+## Contato
+
+<div align="center">
+  <a href="mailto:horaciolmonte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/horacio-linhares-monte-2b5266223/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/horacio_lmg/">
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://oraamon.github.io/Portifolio/status/about">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-555555?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"/>
+  </a>
 </div>
